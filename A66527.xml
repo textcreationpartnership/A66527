@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to the whole flock of God to be read in their assemblies or else where.</title>
+            <author>Willsford, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66527</idno>
+            <idno type="STC">Wing W2869</idno>
+            <idno type="STC">ESTC R27076</idno>
+            <idno type="EEBO-CITATION">09638824</idno>
+            <idno type="OCLC">ocm 09638824</idno>
+            <idno type="VID">43882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1346:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to the whole flock of God to be read in their assemblies or else where.</title>
+                  <author>Willsford, John.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Willsford.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43882:1"/>
+            <pb n="1" facs="tcp:43882:1"/>
+            <head>AN EPISTLE To the whole Flock of God, To be read in their <hi>ASSEMBLIES,</hi> or elſe where.</head>
+            <head type="sub">Let this be diſperſed only among Friends.</head>
+            <opener>
+               <salute>DEar Friends, and Lambs of my heavenly Fa<g ref="char:EOLhyphen"/>ther's fold of Reſt &amp; Peace,</salute>
+            </opener>
+            <p>my Heart is full of love towards you, deſiring your preſerva<g ref="char:EOLhyphen"/>tion in the heavenly bleſſed way of our God, which is very ſtrait and narrow, ſo that too few find it; for indeed none can rightly find it, but as they come to know a Death to their own wiſdom, willings and runinngs, which ever was an Enemy to the precious Life and leadings of God's Spirit; therefore dear Friends take heed of the Tree of knowledge, ſo as to feed upon it; for if there be a feeding upon it; it will bring Death over the precious. Life, and ſo the underſtanding will be darkened althou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:43882:2"/>feſſion of Truth may be retained, yet the Life which makes truly ſenſibly may be wanting: So dear Friends, take heed of that wiſdom which is below, and yet would be Judge over the Life &amp; leadings of Gods pure Spirit, which alwayes leads in the Croſs to our own wills; Oh the harm that this earthly Wiſ<g ref="char:EOLhyphen"/>dom and aſpiring mind hath done to many in all Ages! Surely the People were in this Wiſdom when they built the Tower of <hi>Babel,</hi> thinking there<g ref="char:EOLhyphen"/>by to reach Heaven, and to get themſelves a Name, but the Lord confounded their Languages; and how are the Languages of the <hi>Babel</hi>-bulders confounded in this day, ſo that they cannot agree together in their Imaginations? But one ſaith, this is the way, and another ſaith, that is they way; one ſaith, my judgment is ſo, and another ſaith, mine is thus, it may be, quite contrary to the others; oh my Friends, is not this aſpiring mind and earthly Wiſdom the ground of Strife and Contentions about the things of God, or mind of his Spirit, which no man by this Wiſdom can ever know; that is my Teſtimony for God, which will ſtand over all that ſhall oppoſe it: Therefore dear Friends wait to know the true Baptiſm, for many have believed, but too few are Baptized into the Death of carnal reaſon, and that part which would ſave ſelf alive; oh Friends, the true Baptiſm is a weighty thing to witneſs; for where this is truly known, ſelf is made of no Reputation, mans wit and wiſdom, reaſon and conſultation about the matters of God's Kingdom are laid aſide, and the Lord alone is waited for to guide, who by his bleſſed everlaſting Life leadeth in the narrow way to Life, where the bleſſed Worſhip, that is in the pure Spirit,
+<pb n="3" facs="tcp:43882:2"/>is known: Oh dear Friends and Sheep of my hea<g ref="char:EOLhyphen"/>venly Father's fold, feel me here; for it is a great weight upon my Spirit, that all thoſe that profeſs the Truth, may rightly know the Worſhip which is in the Spirit of Truth, that ſo the anſwer of true Peace they may feel returned into their Boſoms; not a ſelf<g ref="char:EOLhyphen"/>conceited Peace, which men may create to them<g ref="char:EOLhyphen"/>ſelves upon their doing this or that, <hi>Phariſee</hi>-like; my Friends there is much difference betwixt the Peace that God gives, &amp; the Peace which ſome profeſſing Truth may make to themſelves in their own earth<g ref="char:EOLhyphen"/>ly Wiſdom, in paying of <hi>Tythes,</hi> and in ſaying <hi>You</hi> to a ſingle perſon, with ſeveral other things, which many of the dear Children of God durſt not, nor yet dare not do, although they ſhould dye for it; but this is my Teſtimony, with many of my ancient Bre<g ref="char:EOLhyphen"/>thren and Siſters, who have kept their integrity, whom God in his everlaſting love ſent firſt amongſt us to publiſh his everlaſting Truth, that, that Peace is not from God, nor that liberty that which is in the right Spirit, in which the Saints were to ſtand faſt; but it is the liberty which is in the Fleſh, which is to be judged and ſtood over in the Power and Au<g ref="char:EOLhyphen"/>thority of God, both in the particular and in the ge<g ref="char:EOLhyphen"/>neral; that liberty which is in the true Spirit, in which the Saints of old were to ſtand faſt, is to feel the Seed at Liberty, wherein the Heart is inlarged to praiſe the Lord in the true Humility, brokeneſs, and contritedneſs of Spirit, where Halelujahs are ſung unto the Lord, to whom be Glory for evermore, ſaith my Soul. And Friends, what is the Worſhip which is in the Spirit? Is it not to have all ſelf-Will and ſelf-Wiſdom, and all that is contrary to God in<g ref="char:EOLhyphen"/>wardly
+<pb n="4" facs="tcp:43882:3"/>brought into ſubjection unto it? every high thought, and every vain Imagination laid low, all in ſubjection to the Seed, then there is an inward bow<g ref="char:EOLhyphen"/>ing the Knee to the Name of Jeſus, and the Seed comes to Reign in every Heart thus ſubjected; and in this the heavenly holy Family-order comes to be known, when the holy Child Jeſus comes to Reign in every Heart, then the travelling Babe will be nou<g ref="char:EOLhyphen"/>riſhed, and Iniquity, and oppreſſion born Teſtimo<g ref="char:EOLhyphen"/>ny againſt in every place, then Judgment will not be altogether according to the ſight of the Eye, or outward appearance, but there will be righteous Judgment from a ſenſible feeling of the ground of the matter, and there will be no watching for Evil, but here all will be done in true love; here will be no <hi>Herod</hi> watching for the Young Child's Life, but here we ſhall be Helpers and Strengthners one of another in that which is good, and againſt every ap<g ref="char:EOLhyphen"/>pearance of Evil; which will make us a People to Gods praiſe, being fellow-feelers of one anothers exerciſes, and Helpers to bear one anothers Bur<g ref="char:EOLhyphen"/>thens, then will the work of the Lord go eaſily on, when every ones Neck is under the Yoak, but when one draws one way, and another another way, then it goes heavily on: So dear Friends, all take heed of a ſecret inclination to Self, and of letting a<g ref="char:EOLhyphen"/>nother do that for any of you, which you are aſha<g ref="char:EOLhyphen"/>med to be ſeen to do your ſelves, for that is Deceit and will darken the underſtanding and blind the Eye, as <hi>Balaam</hi>'s inclination after <hi>Balak</hi>'s promotion did him; ſo that the dumb Aſs could ſee the Angel before he could.</p>
+            <p>So dear Friends, all ſearch your Hearts to the
+<pb n="5" facs="tcp:43882:3"/>bottom with the bleſſed Light, which is given for that end, let none look overly over their own in<g ref="char:EOLhyphen"/>ward ſtates &amp; conditions, for the Enemy is very buſie to draw out the mind from that, which gives a true diſcerning, into a ſelf-conceitedneſs in a dry Profeſſi<g ref="char:EOLhyphen"/>on; &amp; in this State the earthly ſenſual wiſdom would Reign over the ſimplicity and true Innocency and heavenly Seed, which ſhould Reign over all in the Heart; when the Righteous bear rule, there is true peace and felicity; but on the contrary, the Seed is burthened, and the honeſt Heart is grieved, and yet thoſe that live in the airy Wiſdom, above the witneſs may not be ſenſible of it, no more then the Diſciples (who were heavy and careleſs) had of Chriſt, when he was in ſuch an Agony, that he ſweat as it were great drops of Blood, when he ſaid unto them, <hi>Can ye not watch with me one Hour;</hi> and at another time he ſaid, <hi>that he had many things to ſay unto them, but</hi> (ſaid he) <hi>ye cannot bear them now:</hi> And yet they had followed him long, and wrought Miracles in his Name; but be ſaid, <hi>he would ſend the Spirit of Truth, and it ſhould lead them into all Truth:</hi> (Mark) into all Truth; and he ex<g ref="char:EOLhyphen"/>horted them to wait for it, which they did; and when they had more fully received it, then they could diſcern that which before they were ſtrangers unto: So dear Friends, it is very ſafe for every one to wait low in their minds, to feel that which gives a true diſcerning of the thoughts and intents of the Heart, and alſo the things concerning God's King<g ref="char:EOLhyphen"/>dom, and of the well-being of our immortal Souls for evermore, Amen.</p>
+            <p>And Friends, there is another thing opens in my
+<pb n="6" facs="tcp:43882:4"/>Heart, that as the <hi>Jew</hi> outward was to go to out<g ref="char:EOLhyphen"/>ward <hi>Jeruſalem</hi> to worſhip, the then appointed Place; ſo the <hi>Jew</hi> inward now is to know a gather<g ref="char:EOLhyphen"/>ing into the new and heavenly <hi>Jeruſalem,</hi> which is come and coming down from God out of Heaven, prepared as a Bride adorned for her Husband; all the true Worſhipers muſt hither be gathered; let him that readeth underſtand, for it is a Myſtery to all the Gazers abroad, who are worſhipping in their Imaginations, and know not the place of true Worſhip, which is performed in the true Spirit, in the new and heavenly <hi>Jeruſalem,</hi> which the Lord God is the Light of, and the Gates are not at all ſhut by Day, and there is no Night there, and yet the unclean cannot enter therein: But bleſſed be the Lord God of my Life, he hath made a little Rem<g ref="char:EOLhyphen"/>nant in their meaſures Citizens in this heavenly <hi>Jeruſalem,</hi> who drink at the pure River of clear Water, which runs through the midſt of this City, which hath the Tree of Life on each ſide of it, whoſe Leaves is for the healing of the Nations of their ſin<g ref="char:EOLhyphen"/>ful deſires; and the true Church, the Church of the firſt-born, is coming out of the Wilderneſs again after the dark Night of Apoſtacy, wherein the Whore, Beaſt &amp; falſe Prophet hath born Rule, which makes the Heathen rage, and Prieſts angry, becauſe their Da<g ref="char:EOLhyphen"/>gon is falling, and their craft is going down, by which they have got their Wealth, which makes them caſt ſo many into Priſons for their Bellies; but the Lord is riſen and ariſing, more and more to plead the cauſe of the Innocent People: Therefore dear Friends be valiant for his Truth upon Earth, and let no man take your Crown from you by his ſub<g ref="char:EOLhyphen"/>tilty;
+<pb n="7" facs="tcp:43882:4" rendition="simple:additions"/>but truſt in the Lord, who is ſtrength to the weak, and the binder up of the broken-hearted, who is with his People in Priſons, neither bars nor bolts of Iron, nor all the Cruelty of man can keep his preſence from them; and therefore every one wait to feel him in your own particulars, for our ſtrength is to be known within us; the World's ſtrength is in the Arm of Fleſh, but ours in the name of the Lord, which is as a ſtrong Tower, the Righ<g ref="char:EOLhyphen"/>teous flee unto it and are ſafe; <hi>greater is he that is in us, then he that is in the world;</hi> and Chriſt ſaid unto his, <hi>Be of good cheer, I have overcome the world; in the world ye have trouble, but in me ye have Peace,</hi> ſuch peace as the World cannot give nor take away; in which peace my Soul at this time is well ſatisfied, Glory to the Lord God of Heaven and Earth for evermore, who viſiteth thoſe that are in Priſon for his Name-ſake with everlaſting love, in which love I reſt.</p>
+            <closer>
+               <dateline>Leiceſter <hi>County-Goal</hi> 
+                  <date>the 14th Day of the 10th Moneth, 1676</date>
+               </dateline>
+               <signed>Your Friend and Brother in Tribulation and ſa<g ref="char:EOLhyphen"/>tience. <hi>John Willsford.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
